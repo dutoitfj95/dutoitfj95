@@ -9,7 +9,7 @@ Currently a Geotechnical Engineer interested in rapidly drawing insights from la
 * 🌍  I'm based in Almaty, Kazakhstan
 * 🧠  I'm learning Pandas and Bokeh
 * 🤝  I'm open to collaborating on geotechnical data processing and visualisation
-* ⚡  I like computers more than the rocks required to make them...
+* ⚡  I like computers more than the rocks required to make them
 
 ### Skills
 
